@@ -1,0 +1,19 @@
+{
+  "name": "promise-with-reaction-registered",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohGanji/promise-with-reaction-registered.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohGanji/promise-with-reaction-registered/issues"
+  },
+  "homepage": "https://github.com/MohGanji/promise-with-reaction-registered#readme"
+}
